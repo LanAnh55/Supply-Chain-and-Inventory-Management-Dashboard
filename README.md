@@ -55,32 +55,27 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 • Based on average consumption demand (avg.Outflow) -> predicts next stock-out periods 
 
-• Helps with planning and reordering schedules
+• Helps with planning and reordering schedules, stock-out alerts
 
 • Estimates how many days stock can cover future demand
 
 2. Problem: Excess Stock – Overstock Tracking
-  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Availability.png) 
+  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Excess%20Stock.png) 
    
 • Highlights products with stock above demand or safety level
 
 • Tracks the value and trend of overstock over time
 
-• Includes Pareto chart and performance bars to focus on top issues
+3. Missing Stock – Low & Out-of-Stock Position
 
-3. Missing Stock – Low & Out-of-Stock Items
-   
-• Finds products below safety stock or running out
+  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Excess%20Stock.png)   
+• Finds products below safety stock or Stock-out
 
-• Predicts next stock-out periods using forecast data
-
-• Provides line charts, indicators, and stock-out alerts
+• Determine the amount of money that will be spent to compensate for missing stock items
 
 4. Stock Coverage – Inventory Forecasting
-
-
-• Includes Pareto chart and performance bars to focus on top issues
-
+ ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Excess%20Stock.png) 
+• Provides line charts follow the fluctuations, indicators, Pareto chart and performance bars to focus on top issues
 
 6. Storytelling – Summary View
 
