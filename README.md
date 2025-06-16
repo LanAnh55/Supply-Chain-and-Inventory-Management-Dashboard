@@ -73,7 +73,7 @@ The Tableau file includes:
 • Works with average consumption and forecast logic
 
 5. Warehouses – Location Comparison
-   ![Văn bản thay thế](images/example.png)
+   ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Inventory%20warehouse.png)
    
 • Ranks top warehouses by stock status
 
