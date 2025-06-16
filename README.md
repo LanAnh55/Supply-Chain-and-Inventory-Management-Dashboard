@@ -73,9 +73,10 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 • Determine the amount of money that will be spent to compensate for missing stock items
 
-4. Stock Coverage – Inventory Forecasting
- ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Excess%20Stock.png) 
+4. Adhoc Analysis 
+ ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Adhoc%20Analysis.png) 
 • Provides line charts follow the fluctuations, indicators, Pareto chart and performance bars to focus on top issues
 
-6. Storytelling – Summary View
+6. Solution: Stock Coverage
+
 
