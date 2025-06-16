@@ -78,5 +78,9 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 • Provides line charts follow the fluctuations, indicators, Pareto chart and performance bars to focus on top issues
 
 6. Solution: Stock Coverage
+![ Stock Coverage](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Stock%20Coverage.png).
+
+• Based on standard deviation and average Outflow Quality - consumption, to determine the level of customer demand
+
 
 
