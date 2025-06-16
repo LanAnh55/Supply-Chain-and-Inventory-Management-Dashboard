@@ -68,10 +68,10 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 3. Missing Stock – Low & Out-of-Stock Position
 
-  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Excess%20Stock.png)   
+  ![Missing Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Missing%20Stock.png)   
 • Finds products below safety stock or Stock-out
 
-• Determine the amount of money that will be spent to compensate for missing stock items
+• Determine the amount of money that will be spent to compensate for missing stock position 
 
 4. Adhoc Analysis 
  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Adhoc%20Analysis.png) 
