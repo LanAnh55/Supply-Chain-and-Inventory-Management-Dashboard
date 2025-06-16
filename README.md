@@ -82,6 +82,6 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 • Based on standard deviation and average Outflow Quality - consumption, to determine the level of customer demand
 
-Available at: ![Tableau Online](https://public.tableau.com/app/profile/nguy.n.th.lan.anh6349/viz/InventoryManagementDashboard_17500622461680/Storytelling) 
+Available at: [Tableau Online](https://public.tableau.com/app/profile/nguy.n.th.lan.anh6349/viz/InventoryManagementDashboard_17500622461680/Storytelling)
 
 
