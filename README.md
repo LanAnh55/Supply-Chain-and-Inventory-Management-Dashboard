@@ -41,6 +41,7 @@ The Tableau file includes:
 # III. KEY ANALYSIS 
 
 1. Availability – Current Inventory Status
+   
 • Shows product categories by stock condition: safe, overstocked, low, or critical
 
 • Compares available stock across warehouses
@@ -48,6 +49,7 @@ The Tableau file includes:
 • Uses bar charts, evolution graphs, and KPIs
 
 2. Excess Stock – Overstock Tracking
+   
 • Highlights products with stock above demand or safety level
 
 • Tracks the value and trend of overstock over time
@@ -55,6 +57,7 @@ The Tableau file includes:
 • Includes Pareto chart and performance bars to focus on top issues
 
 3. Missing Stock – Low & Out-of-Stock Items
+   
 • Finds products below safety stock or running out
 
 • Predicts next stock-out periods using forecast data
@@ -62,6 +65,7 @@ The Tableau file includes:
 • Provides line charts, indicators, and stock-out alerts
 
 4. Stock Coverage – Inventory Forecasting
+   
 • Estimates how many days stock can cover future demand
 
 • Helps with planning and reordering schedules
@@ -69,6 +73,7 @@ The Tableau file includes:
 • Works with average consumption and forecast logic
 
 5. Warehouses – Location Comparison
+   
 • Ranks top warehouses by stock status
 
 • Compares excess, missing, and balanced stock levels
