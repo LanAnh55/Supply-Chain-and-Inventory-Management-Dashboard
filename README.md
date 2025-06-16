@@ -48,6 +48,8 @@ The Tableau file includes:
 
 • Uses bar charts, evolution graphs, and KPIs
 
+  ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Availability%20and%20Forecast.png) 
+
 2. Excess Stock – Overstock Tracking
    
 • Highlights products with stock above demand or safety level
