@@ -49,14 +49,18 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 • Compares excess, missing, and balanced stock levels: Evaluate the severity of the warehouse based on the % of excess stock, ,missing stock compared to inventory value 
 
 2. Availability – Current Inventory Status
+  ![Availability](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Availability.png) 
    
 • Shows product categories by stock condition: safe, overstocked, low, or critical
 
 • Based on average consumption demand (avg.Outflow) -> predicts next stock-out periods 
 
-  ![Availability](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Availability%20and%20Forecast.png) 
+• Helps with planning and reordering schedules
 
-2. Excess Stock – Overstock Tracking
+• Estimates how many days stock can cover future demand
+
+2. Problem: Excess Stock – Overstock Tracking
+  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Availability.png) 
    
 • Highlights products with stock above demand or safety level
 
@@ -73,13 +77,9 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 • Provides line charts, indicators, and stock-out alerts
 
 4. Stock Coverage – Inventory Forecasting
-   
-• Estimates how many days stock can cover future demand
 
-• Helps with planning and reordering schedules
 
-• Works with average consumption and forecast logic
-
+• Includes Pareto chart and performance bars to focus on top issues
 
 
 6. Storytelling – Summary View
