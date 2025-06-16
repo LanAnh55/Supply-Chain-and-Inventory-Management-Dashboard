@@ -42,7 +42,7 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 # III. KEY ANALYSIS 
 
 1. Warehouses – Location Comparison
-   ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Inventory%20warehouse.png)
+   ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Warehouse%20Inventory.png)
    
 • Ranks top warehouses by stock status
 
@@ -54,7 +54,7 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 • Based on average consumption demand (avg.Outflow) -> predicts next stock-out periods 
 
-  ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Availability%20and%20Forecast.png) 
+  ![Availability](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Availability%20and%20Forecast.png) 
 
 2. Excess Stock – Overstock Tracking
    
