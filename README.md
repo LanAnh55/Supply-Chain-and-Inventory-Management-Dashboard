@@ -1,8 +1,11 @@
 # Supply-Chain-and-Inventory-Management-Dashboard
 
 Prepared by: Nguyễn Thị Lan Anh 
+
 Tool used: Tableau Desktop
+
 Data sources: SQL Database 
+
 Purpose: Track and improve inventory performance across warehouses
 
 # I. PROJECT OBJECTIVE
