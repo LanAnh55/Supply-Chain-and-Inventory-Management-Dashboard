@@ -21,32 +21,38 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 •	Monitor current stock levels across products and locations
 
-•	Identify shortages (under safety stock) and overstock situations
+•	By analyzing Excess Stock, we can identify specific items where stock levels have exceeded reasonable thresholds — highlighting cases that may require urgent attention or even red-flag alerts due to high risk of waste or overcapacity.
+
+•  On the other hand, Missing Stock Value helps pinpoint items that have been overlooked or understocked, potentially impacting customer fulfillment. From this, we can calculate the estimated budget needed to replenish each item at each warehouse location to meet expected demand.
 
 •	Forecast stock needs and predict future stock-outs
 
 •	Compare performance across warehouses
 
-•	Help managers make better, data-driven decisions
+•	ABC prioritization to focus resources on high-impact items
+
+•  Collaborative planning with suppliers to shorten lead times and reduce buffer stock
+
+•  Ultimately, the dashboard provides a clear, data-driven foundation for improving inventory performance, minimizing costs, and enhancing service levels across the supply chain.
 
 # II. DASHBOARD STRUCTURE
-The Tableau file includes:
 
-6 main dashboards: Availability, Excess Stock, Missing Stock, Stock Coverage, Warehouses, Storytelling
-
-•	Over 50 worksheets with charts, KPIs, trends, and calculations
-
-• Data sources from SQL DATABASE 
+6 main dashboards: Assessment Context: Warehouses and Availability; Problem: Excess Stock and Missing Stock, Delve Into Analysis, Solution: Optimize Stock Coverage 
 
 # III. KEY ANALYSIS 
 
-1. Availability – Current Inventory Status
+1. Warehouses – Location Comparison
+   ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Inventory%20warehouse.png)
+   
+• Ranks top warehouses by stock status
+
+• Compares excess, missing, and balanced stock levels: Evaluate the severity of the warehouse based on the % of excess stock, ,missing stock compared to inventory value 
+
+2. Availability – Current Inventory Status
    
 • Shows product categories by stock condition: safe, overstocked, low, or critical
 
-• Compares available stock across warehouses
-
-• Uses bar charts, evolution graphs, and KPIs
+• Based on average consumption demand (avg.Outflow) -> predicts next stock-out periods 
 
   ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Availability%20and%20Forecast.png) 
 
@@ -74,12 +80,7 @@ The Tableau file includes:
 
 • Works with average consumption and forecast logic
 
-5. Warehouses – Location Comparison
-   ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Inventory%20warehouse.png)
-   
-• Ranks top warehouses by stock status
 
-• Compares excess, missing, and balanced stock levels
 
 6. Storytelling – Summary View
 
