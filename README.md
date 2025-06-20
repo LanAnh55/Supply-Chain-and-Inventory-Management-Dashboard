@@ -84,5 +84,10 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 • Based on standard deviation and average Outflow Quality - consumption, to determine the level of customer demand
 
+---
+
+**Version:** 1.1.0
+
+**Contact:** Nguyễn Thị Lan Anh ([lananh2004@gmail.com](lananh2004@gmail.com))
 
 
