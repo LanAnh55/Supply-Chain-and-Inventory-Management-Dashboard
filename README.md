@@ -1,14 +1,14 @@
 # Supply-Chain-and-Inventory-Management-Dashboard
 
-Prepared by: Nguyễn Thị Lan Anh 
+**Prepared by:** Nguyễn Thị Lan Anh 
 
-Tool used: Tableau Desktop
+**Tool used:** Tableau Desktop
 
-Data sources: SQL Database 
+**Data sources:** SQL Database 
 
-Purpose: Track and improve inventory performance across warehouses
+**Purpose:** Track and improve inventory performance across warehouses
 
-Available at: [Tableau Online](https://public.tableau.com/app/profile/nguy.n.th.lan.anh6349/viz/InventoryManagementDashboard_17500622461680/Storytelling)
+**Available at:** [Tableau Online](https://public.tableau.com/app/profile/nguy.n.th.lan.anh6349/viz/InventoryManagementDashboard_17500622461680/Storytelling)
 
 # I. PROJECT OBJECTIVE
 In today’s fast-moving supply chain, businesses must manage inventory carefully to avoid:
@@ -43,14 +43,14 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 # III. KEY ANALYSIS 
 
-1. Warehouses – Location Comparison
+**1. Warehouses – Location Comparison**
    ![Warehouse](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Warehouse%20Inventory.png)
    
 • Ranks top warehouses by stock status
 
 • Compares excess, missing, and balanced stock levels: Evaluate the severity of the warehouse based on the % of excess stock, ,missing stock compared to inventory value 
 
-2. Availability – Current Inventory Status
+**2. Availability – Current Inventory Status**
   ![Availability](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Availability.png) 
    
 • Shows product categories by stock condition: safe, overstocked, low, or critical
@@ -61,25 +61,25 @@ To solve these problems, the Inventory Management Dashboard was created. Its mai
 
 • Estimates how many days stock can cover future demand
 
-2. Problem: Excess Stock – Overstock Tracking
+**2. Problem: Excess Stock – Overstock Tracking**
   ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Excess%20Stock.png) 
    
 • Highlights products with stock above demand or safety level
 
 • Tracks the value and trend of overstock over time
 
-3. Missing Stock – Low & Out-of-Stock Position
+**3. Missing Stock – Low & Out-of-Stock Position**
 
   ![Missing Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Missing%20Stock.png)   
 • Finds products below safety stock or Stock-out
 
 • Determine the amount of money that will be spent to compensate for missing stock position 
 
-4. Adhoc Analysis 
+**4. Adhoc Analysis**
  ![Excess Stock](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Adhoc%20Analysis.png) 
 • Provides line charts follow the fluctuations, indicators, Pareto chart and performance bars to focus on top issues
 
-6. Solution: Stock Coverage
+**6. Solution: Stock Coverage**
 ![ Stock Coverage](https://github.com/LanAnh55/Supply-Chain-and-Inventory-Management-Dashboard/blob/main/Figure/Stock%20Coverage.png).
 
 • Based on standard deviation and average Outflow Quality - consumption, to determine the level of customer demand
